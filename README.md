@@ -1,2 +1,2 @@
-# Homework
-This directory are for python scripts i created during my Python Bootcamp.
+# Bootcamp
+This directory are for some of the python scripts I created during my Python Bootcamp.
